@@ -10,3 +10,4 @@
 
 - **RNF01:** La interfaz del sistema debe ser responsive, adaptándose correctamente a dispositivos móviles y de escritorio.
 - **RNF02:** El sistema debe responder a las solicitudes del usuario en un tiempo menor a 2 segundos bajo condiciones normales de uso.
+- **RF04:** El sistema debe permitir cancelar o reprogramar una cita ya agendada.
